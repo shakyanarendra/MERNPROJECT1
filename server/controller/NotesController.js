@@ -1,6 +1,6 @@
 const express = require("express");
 const dotenv = require("dotenv");
-const Notes = require("../Models/Notes");
+const Notes = require("../Models/Notes.js");
 const multer = require("multer");
 const path = require("path");
 
